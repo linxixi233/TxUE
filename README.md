@@ -1,6 +1,6 @@
 # CoinsCollect Demo 5.8 — 项目报告
 
-> **课程大作业**：基于 UE5 官方 First Person 模板，实现一个多人 FPS 游戏 Demo
+> **课程大作业**：基于 UE5 官方 First Person 模板，实现一个多人游戏 Demo
 >
 > **引擎版本**：Unreal Engine 4.3（前两日） 5.3、5.8（后一日）
 >
