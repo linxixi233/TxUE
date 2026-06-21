@@ -1,0 +1,29 @@
+# UE5 Generated
+Intermediate/
+Binaries/
+DerivedDataCache/
+Saved/
+
+# IDE
+.vs/
+.vscode/
+*.sln
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ===== 非自定义资产包 (可在新机器上从 Epic 商城/模板重新获取) =====
+Content/MetaHumans/
+Content/StarterContent/
+Content/Characters/
+Content/MilitaryWeapDark/
+Content/MilitaryWeapSilver/
+Content/FPS_Weapon_Bundle/
+Content/FirstPersonArms/
+Content/AnimStarterPack/
+Content/InterfaceAndItemSounds/
+Content/Interface_And_Item_Sounds/
+Content/FPWeapon/
+Content/ThirdPerson/
